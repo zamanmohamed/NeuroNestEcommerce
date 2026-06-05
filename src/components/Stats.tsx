@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 
-const statKeys = ["stores", "uptime", "languages", "stack"] as const;
+const statKeys = ["plans", "store", "uptime", "languages"] as const;
 
 export default function Stats() {
   const t = useTranslations("stats");

@@ -2,7 +2,7 @@ import { useTranslations } from "next-intl";
 import { Check } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-const planKeys = ["starter", "growth", "enterprise"] as const;
+const planKeys = ["starter", "growth", "business"] as const;
 
 export default function Pricing() {
   const t = useTranslations("pricing");

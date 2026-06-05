@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "neuronest eCommerce — Smart. Seamless. Shopping.",
-    "description": "Launch and scale your online store with neuronest eCommerce — an intelligent, multi-tenant platform built for modern brands."
+    "description": "Launch and grow your online store with neuronest eCommerce — a subscription-based platform where you manage one store and unlock more features as you upgrade."
   },
   "nav": {
     "features": "Features",
@@ -15,7 +15,7 @@
     "badge": "Next-Gen eCommerce Platform",
     "title": "Build smarter stores.",
     "titleHighlight": "Sell seamlessly.",
-    "subtitle": "neuronest eCommerce combines intelligent automation, multi-store management, and a beautiful shopping experience — everything you need to grow your brand online.",
+    "subtitle": "neuronest eCommerce gives you one powerful online store with subscription plans that unlock more products, promotions, and customers as your business grows.",
     "ctaPrimary": "Start Free Trial",
     "ctaSecondary": "Explore Features",
     "tagline": "Smart. Seamless. Shopping."
@@ -24,17 +24,17 @@
     "title": "Everything your store needs",
     "subtitle": "Powerful tools designed for merchants, delightful experiences built for shoppers.",
     "items": {
-      "multiStore": {
-        "title": "Multi-Store Management",
-        "description": "Run multiple brands from one dashboard with subdomain-based store routing and isolated catalogs."
+      "subscription": {
+        "title": "Subscription-Based Features",
+        "description": "Manage one store and upgrade your plan to unlock higher limits for products, banners, promotions, deliveries, and customers."
       },
       "payments": {
         "title": "Secure Payments",
-        "description": "Accept payments globally with Stripe integration, real-time order tracking, and automated receipts."
+        "description": "Accept secure online payments with real-time order tracking and automated receipts."
       },
       "admin": {
         "title": "Powerful Admin Dashboard",
-        "description": "Manage products, categories, orders, and customers with an intuitive React-based admin panel."
+        "description": "Manage products, categories, orders, and customers with an intuitive admin dashboard."
       },
       "notifications": {
         "title": "Smart Notifications",
@@ -42,11 +42,11 @@
       },
       "seo": {
         "title": "SEO-Ready Storefront",
-        "description": "SEO-friendly product URLs, fast Next.js rendering, and optimized performance out of the box."
+        "description": "SEO-friendly product URLs, fast-loading pages, and an optimized shopping experience."
       },
       "scalable": {
-        "title": "Built to Scale",
-        "description": "NestJS backend with MongoDB, Docker-ready deployment, and a modern full-stack architecture."
+        "title": "Reliable Platform",
+        "description": "A secure, stable platform built to keep your store running smoothly as your business grows."
       }
     }
   },
@@ -56,11 +56,11 @@
     "steps": {
       "create": {
         "title": "Create Your Store",
-        "description": "Set up your brand in minutes through the admin dashboard. Add your logo, configure your subdomain, and you're ready."
+        "description": "Set up your store in minutes and choose a subscription plan. Add your logo, configure your subdomain, and you're ready."
       },
       "catalog": {
         "title": "Build Your Catalog",
-        "description": "Add products, categories, and brands. Upload images, set pricing, and organize your inventory with ease."
+        "description": "Add products, categories, and brands within your plan limits. Upload images, set pricing, and organize your inventory with ease."
       },
       "sell": {
         "title": "Start Selling",
@@ -69,18 +69,18 @@
     }
   },
   "stats": {
-    "stores": "Multi-Store",
-    "storesLabel": "Support",
+    "plans": "3",
+    "plansLabel": "Subscription Plans",
+    "store": "1",
+    "storeLabel": "Store per Account",
     "uptime": "99.9%",
     "uptimeLabel": "Uptime",
     "languages": "2",
-    "languagesLabel": "Languages",
-    "stack": "Full-Stack",
-    "stackLabel": "Solution"
+    "languagesLabel": "Languages"
   },
   "pricing": {
     "title": "Simple, transparent pricing",
-    "subtitle": "Choose the plan that fits your business. Scale as you grow.",
+    "subtitle": "One store per account. Upgrade your plan to unlock more features and higher limits.",
     "currency": "LKR",
     "monthly": "/month",
     "popular": "Most Popular",
@@ -89,20 +89,38 @@
       "starter": {
         "name": "Starter",
         "price": "4,990",
-        "description": "Perfect for new brands launching their first store.",
-        "features": ["1 Store", "Up to 100 products", "Stripe payments", "Email support"]
+        "description": "Ideal for new businesses launching their first online store.",
+        "features": [
+          "2 products",
+          "5 categories & 5 brands",
+          "Up to 100 customers",
+          "50 deliveries per month",
+          "Basic banners & promotions"
+        ]
       },
       "growth": {
         "name": "Growth",
         "price": "14,990",
-        "description": "For growing businesses managing multiple brands.",
-        "features": ["5 Stores", "Unlimited products", "Priority support", "Advanced analytics", "Custom subdomain"]
+        "description": "For growing stores that need more catalog and marketing capacity.",
+        "features": [
+          "200 products",
+          "50 categories & 50 brands",
+          "Up to 1,000 customers",
+          "500 deliveries per month",
+          "Advanced banners, promos & countdowns"
+        ]
       },
-      "enterprise": {
-        "name": "Enterprise",
+      "business": {
+        "name": "Business",
         "price": "39,990",
-        "description": "Full power for large-scale commerce operations.",
-        "features": ["Unlimited stores", "Dedicated support", "Custom integrations", "SLA guarantee", "White-label options"]
+        "description": "Full capacity for established stores with unlimited resources.",
+        "features": [
+          "Unlimited products",
+          "Unlimited categories & brands",
+          "Unlimited customers",
+          "Unlimited deliveries",
+          "Unlimited banners, promos & marketing tools"
+        ]
       }
     }
   },

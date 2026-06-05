@@ -2,14 +2,14 @@ import { useTranslations } from "next-intl";
 import {
   Bell,
   CreditCard,
+  Layers,
   LayoutDashboard,
   Search,
   Server,
-  Store,
 } from "lucide-react";
 
 const featureKeys = [
-  { key: "multiStore", icon: Store },
+  { key: "subscription", icon: Layers },
   { key: "payments", icon: CreditCard },
   { key: "admin", icon: LayoutDashboard },
   { key: "notifications", icon: Bell },
