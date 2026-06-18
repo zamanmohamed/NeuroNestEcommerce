@@ -16,6 +16,15 @@ npm run dev
 
 Open [http://localhost:3001](http://localhost:3001). The default locale (English) is served at `/` and `/en`.
 
+Start the marketing API separately (see `../marketing-backend`):
+
+```bash
+cd ../marketing-backend
+npm run start:dev
+```
+
+Set `NEXT_PUBLIC_MARKETING_API_URL=http://localhost:5001/api` in `.env.local`.
+
 ## Production
 
 ```bash

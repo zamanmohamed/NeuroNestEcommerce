@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
+import { Toaster } from "react-hot-toast";
 import "../globals.css";
 
 const inter = Inter({
@@ -51,6 +52,7 @@ export default async function LocaleLayout({
       <body className={`${inter.variable} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           {children}
+          <Toaster position="top-right" />
         </NextIntlClientProvider>
       </body>
     </html>

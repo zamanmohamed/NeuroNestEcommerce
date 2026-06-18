@@ -7,6 +7,7 @@
     "features": "Features",
     "howItWorks": "How It Works",
     "pricing": "Pricing",
+    "consultation": "Free Consultation",
     "contact": "Contact",
     "getStarted": "Get Started",
     "demo": "View Demo"
@@ -121,6 +122,62 @@
           "Unlimited deliveries",
           "Unlimited banners, promos & marketing tools"
         ]
+      }
+    }
+  },
+  "consultation": {
+    "badge": "Free Consultation",
+    "title": "Book a free consultation",
+    "subtitle": "Not sure which plan fits your business? Schedule a free consultation with our team and we'll help you get started.",
+    "formTitle": "Request your free session",
+    "steps": {
+      "step1": "Fill in your details and pick a preferred date",
+      "step2": "Our team reviews your request and confirms the session",
+      "step3": "Get personalized guidance on setting up your store"
+    },
+    "form": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "you@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "077 123 4567",
+      "businessName": "Business Name",
+      "businessNamePlaceholder": "Your store or brand name",
+      "preferredDate": "Preferred Date",
+      "preferredTime": "Preferred Time",
+      "preferredTimePlaceholder": "Select a time slot",
+      "message": "What would you like to discuss?",
+      "messagePlaceholder": "Tell us about your business and goals...",
+      "submit": "Book Free Consultation",
+      "submitting": "Submitting...",
+      "successTitle": "Request received!",
+      "successMessage": "Thank you! Our team will contact you shortly to confirm your free consultation.",
+      "successToast": "Consultation request submitted successfully",
+      "bookAnother": "Book another consultation",
+      "timeSlots": {
+        "morning": "09:00 AM – 11:00 AM",
+        "midday": "11:00 AM – 01:00 PM",
+        "afternoon": "02:00 PM – 04:00 PM",
+        "evening": "04:00 PM – 06:00 PM"
+      },
+      "errors": {
+        "fullNameRequired": "Full name is required",
+        "fullNameMin": "Full name must be at least 2 characters",
+        "fullNameMax": "Full name must be at most 100 characters",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "emailMax": "Email must be at most 150 characters",
+        "phoneRequired": "Phone number is required",
+        "phoneInvalid": "Please enter a valid phone number",
+        "phoneMin": "Phone number must be at least 7 characters",
+        "phoneMax": "Phone number must be at most 20 characters",
+        "businessNameMax": "Business name must be at most 150 characters",
+        "preferredDateRequired": "Preferred date is required",
+        "preferredDateInvalid": "Please select a valid date",
+        "preferredTimeMax": "Preferred time must be at most 30 characters",
+        "messageMax": "Message must be at most 1000 characters",
+        "submitFailed": "Failed to submit consultation request. Please try again."
       }
     }
   },
