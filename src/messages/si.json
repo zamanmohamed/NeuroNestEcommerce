@@ -201,5 +201,818 @@
   },
   "languageSwitcher": {
     "label": "භාෂාව"
+  },
+  "pages": {
+    "backToHome": "මුල් පිටුවට"
+  },
+  "aboutPage": {
+    "metaTitle": "අප ගැන — neuronest eCommerce",
+    "metaDescription": "neuronest eCommerce ගැන දැනගන්න — ව්‍යාපාරවලට online store එකක් පහසුවෙන් සාදා, manage කර, වර්ධනය කරගැනීමට උපකාරී smart eCommerce platform එක.",
+    "title": "අප ගැන",
+    "paragraphs": [
+      "neuronest eCommerce යනු ව්‍යාපාරවලට පහසුවෙන් online store එකක් සාදා, manage කර, වර්ධනය කරගැනීමට උපකාරී වන smart eCommerce platform එකකි.",
+      "අපගේ අරමුණ වන්නේ online selling ක්‍රියාවලිය සරල, අඩු වියදම් සහ ඕනෑම ව්‍යාපාරයකට පහසුවෙන් භාවිතා කළ හැකි ආකාරයට සකස් කිරීමයි. ඔබ නව online store එකක් ආරම්භ කරන කෙනෙක් වුවත්, දැනට පවතින ව්‍යාපාරයක් online ලෙස වර්ධනය කිරීමට බලාපොරොත්තු වන කෙනෙක් වුවත්, neuronest eCommerce ඔබට products, orders, customers සහ digital business operations එකම platform එකකින් manage කිරීමට අවශ්‍ය tools ලබා දෙයි.",
+      "අපි ප්‍රායෝගික, user-friendly සහ scalable solutions ගොඩනැගීම කෙරෙහි අවධානය යොමු කරමු. එමඟින් business owners ලාට කාලය ඉතිරි කරගැනීමට, technical difficulties අඩු කරගැනීමට, සහ online selling වඩාත් ඵලදායී ලෙස කරගෙන යාමට හැකියාව ලැබේ.",
+      "neuronest eCommerce හි අපගේ විශ්වාසය වන්නේ technology එක ව්‍යාපාර වර්ධනයට සහාය විය යුතු අතර, එය සංකීර්ණ නොවිය යුතු බවයි. ඒ නිසා අපගේ platform එක simple, reliable සහ modern online businesses සඳහා සුදුසු ආකාරයට නිර්මාණය කර ඇත.",
+      "අපගේ දැක්ම වන්නේ eCommerce ක්‍රියාවලිය පහසු, වේගවත් සහ කාර්යක්ෂම කරන smart digital tools මඟින් ව්‍යාපාර සවිබල ගැන්වීමයි."
+    ]
+  },
+  "privacyPage": {
+    "metaTitle": "පෞද්ගලිකත්ව ප්‍රතිපත්තිය — neuronest eCommerce",
+    "metaDescription": "neuronest eCommerce ඔබගේ පුද්ගලික තොරතුරු එකතු කරන, භාවිතා කරන, ගබඩා කරන සහ ආරක්ෂා කරන ආකාරය කියවන්න.",
+    "title": "පෞද්ගලිකත්ව ප්‍රතිපත්තිය",
+    "lastUpdated": "අවසන් වරට යාවත්කාලීන කළ දිනය: 2026 ජූනි 23",
+    "sections": {
+      "introduction": {
+        "title": "1. හැඳින්වීම",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce (\"අපි\", \"අපගේ\", හෝ \"අප\") ඔබගේ පෞද්ගලිකත්වය ගෞරවයෙන් සලකන අතර, ඔබගේ පුද්ගලික තොරතුරු ආරක්ෂා කිරීම සඳහා කැපවී සිටී."
+          },
+          {
+            "type": "p",
+            "text": "මෙම පෞද්ගලිකත්ව ප්‍රතිපත්තිය මඟින්, ඔබ අපගේ website එකට පිවිසීමේදී, account එකක් create කිරීමේදී, අපගේ services සඳහා subscribe කිරීමේදී, consultation එකක් book කිරීමේදී, හෝ අපගේ eCommerce platform එක භාවිතා කිරීමේදී, අපි ඔබගෙන් තොරතුරු එකතු කරන ආකාරය, එම තොරතුරු භාවිතා කරන ආකාරය, ගබඩා කරන ආකාරය, හෙළිදරව් කරන ආකාරය සහ ආරක්ෂා කරන ආකාරය පැහැදිලි කරයි."
+          },
+          {
+            "type": "p",
+            "text": "neuronest eCommerce භාවිතා කිරීමෙන්, ඔබ මෙම පෞද්ගලිකත්ව ප්‍රතිපත්තියට අනුව තොරතුරු එකතු කිරීම සහ භාවිතා කිරීම පිළිගන්නා බව සැලකේ."
+          }
+        ]
+      },
+      "collection": {
+        "title": "2. අපි එකතු කරන තොරතුරු",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ඔබ අපට සෘජුව ලබාදෙන පහත පුද්ගලික තොරතුරු අපි එකතු කළ හැකිය:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "නම",
+              "Email address",
+              "දුරකථන අංකය",
+              "ව්‍යාපාර නාමය",
+              "Billing සහ subscription details",
+              "Account login details",
+              "Forms හරහා යවන messages හෝ inquiries",
+              "Consultation booking details, එනම් preferred date, time සහ message"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ඔබ අපගේ website එක හෝ platform එක භාවිතා කරන විට, පහත තොරතුරු ස්වයංක්‍රීයව එකතු විය හැකිය:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "IP address",
+              "Browser type",
+              "Device information",
+              "Operating system",
+              "පිවිසුණු pages",
+              "Visit කළ දිනය සහ වේලාව",
+              "Platform usage activity",
+              "Error logs සහ performance data"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "මෙම තොරතුරු අපගේ services වැඩිදියුණු කිරීමට, security පවත්වා ගැනීමට, සහ user experience එක වැඩිදියුණු කිරීමට භාවිතා වේ."
+          }
+        ]
+      },
+      "usage": {
+        "title": "3. ඔබගේ තොරතුරු අපි භාවිතා කරන ආකාරය",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපි එකතු කරන තොරතුරු පහත අරමුණු සඳහා භාවිතා කළ හැකිය:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "User accounts create කිරීම සහ manage කිරීම",
+              "අපගේ platform එක provide, operate සහ maintain කිරීම",
+              "Subscriptions, payments සහ billing process කිරීම",
+              "Consultation requests සහ support inquiries වලට පිළිතුරු දීම",
+              "Account, billing, security සහ service-related notifications යැවීම",
+              "Website performance සහ user experience වැඩිදියුණු කිරීම",
+              "Fraud, abuse හෝ security threats monitor කිරීම සහ වැළැක්වීම",
+              "Legal සහ regulatory obligations වලට අනුකූල වීම",
+              "නීතියෙන් අවසර ඇති අවස්ථාවල product updates හෝ marketing communications යැවීම"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ඔබට applicable අවස්ථාවල marketing communications වලින් opt out වීමට හැකිය. එහෙත්, important service-related messages අපි තවදුරටත් යැවිය හැකිය."
+          }
+        ]
+      },
+      "payments": {
+        "title": "4. Payments සහ Billing",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ඔබ paid plan එකකට subscribe කළහොත්, payment සහ billing information third-party payment service providers මඟින් process විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "අපි full credit card details හෝ sensitive payment card details අපගේ servers තුළ සෘජුව ගබඩා කිරීමට අදහස් නොකරමු. Payment information secure third-party payment processors මඟින්, ඔවුන්ගේ privacy සහ security policies අනුව handle කරනු ලැබේ."
+          },
+          {
+            "type": "p",
+            "text": "Account management සහ record-keeping සඳහා, payment status, invoice details, subscription plan සහ transaction reference numbers වැනි සීමිත billing-related information අපි ගබඩා කළ හැකිය."
+          }
+        ]
+      },
+      "cookies": {
+        "title": "5. Cookies සහ Tracking Technologies",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපගේ website සහ platform එක වැඩිදියුණු කිරීම සඳහා cookies සහ සමාන tracking technologies භාවිතා කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Cookies පහත අරමුණු සඳහා භාවිතා විය හැකිය:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Users logged in තබා ගැනීමට",
+              "User preferences මතක තබා ගැනීමට",
+              "Website performance වැඩිදියුණු කිරීමට",
+              "Users platform එක සමඟ interact කරන ආකාරය තේරුම් ගැනීමට",
+              "Security සහ fraud prevention සඳහා සහාය වීමට",
+              "Traffic සහ usage patterns analyze කිරීමට"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ browser settings හරහා cookies control හෝ disable කළ හැකිය. නමුත් cookies disable කළහොත්, platform එකේ සමහර features නිවැරදිව ක්‍රියා නොකරනු ඇත."
+          }
+        ]
+      },
+      "sharing": {
+        "title": "6. තොරතුරු බෙදාගැනීම",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපි ඔබගේ පුද්ගලික තොරතුරු විකුණන්නේ නැත."
+          },
+          {
+            "type": "p",
+            "text": "අපගේ business සහ platform එක operate කිරීමට උදව් කරන trusted third-party service providers සමඟ ඔබගේ තොරතුරු බෙදාගත හැකිය. ඒවාට ඇතුළත් විය හැක්කේ:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Hosting providers",
+              "Payment processors",
+              "Email service providers",
+              "Analytics providers",
+              "Customer support tools",
+              "Security සහ monitoring services"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "මෙම service providers ඔබගේ තොරතුරු භාවිතා කළ යුත්තේ අපට services ලබාදීමට අවශ්‍ය තරමට පමණි, සහ ඔවුන් එම තොරතුරු ආරක්ෂා කිරීමට බැඳී සිටිය යුතුය."
+          },
+          {
+            "type": "p",
+            "text": "නීතිය, regulation, legal process හෝ government request මඟින් අවශ්‍ය වූ විට, හෝ අපගේ rights, users, platform, public safety, fraud prevention, abuse prevention, හෝ security threats වලින් ආරක්ෂා වීමට අවශ්‍ය වූ විට, අපි ඔබගේ තොරතුරු හෙළිදරව් කළ හැකිය."
+          }
+        ]
+      },
+      "internationalTransfers": {
+        "title": "7. International Data Transfers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපගේ service providers සමහරක් ඔබගේ රටෙන් පිටත රටවල data store හෝ process කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "neuronest eCommerce භාවිතා කිරීමෙන්, ඔබගේ තොරතුරු වෙනත් රටවලට transfer කර process විය හැකි බව ඔබ තේරුම් ගන්නා බව සැලකේ. එම රටවල data protection laws ඔබගේ රටේ නීතිවලට වෙනස් විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ පුද්ගලික තොරතුරු මෙම Privacy Policy අනුව සහ ආරක්ෂිතව handle කිරීමට අපි reasonable steps ගනිමු."
+          }
+        ]
+      },
+      "dataRetention": {
+        "title": "8. Data Retention",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "මෙම Privacy Policy තුළ සඳහන් අරමුණු සඳහා අවශ්‍ය තරම් කාලයක් පමණක් අපි ඔබගේ පුද්ගලික තොරතුරු තබා ගනිමු."
+          },
+          {
+            "type": "p",
+            "text": "අපි තොරතුරු තබා ගත හැකි හේතු:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "ඔබගේ account maintain කිරීම",
+              "Active services ලබාදීම",
+              "Billing සහ subscriptions process කිරීම",
+              "Support requests වලට පිළිතුරු දීම",
+              "Legal, tax, accounting, හෝ reporting requirements සපුරාලීම",
+              "Fraud, abuse, හෝ security incidents වැළැක්වීම"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "පුද්ගලික තොරතුරු තවදුරටත් අවශ්‍ය නොවන විට, අපි එය delete, anonymize, හෝ applicable requirements අනුව secure ලෙස store කරනු ඇත."
+          }
+        ]
+      },
+      "security": {
+        "title": "9. Data Security",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Unauthorized access, alteration, disclosure, හෝ destruction වලින් ඔබගේ පුද්ගලික තොරතුරු ආරක්ෂා කිරීමට අපි appropriate technical සහ organizational measures ක්‍රියාත්මක කරමු."
+          },
+          {
+            "type": "p",
+            "text": "මෙම measures වලට secure hosting, access controls, password protection, අවශ්‍ය අවස්ථාවල encryption, monitoring, සහ regular security improvements ඇතුළත් විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "කෙසේ වෙතත්, internet හරහා data transmission කිරීම හෝ electronic storage කිරීම 100% secure නොවේ. එම නිසා absolute security එකක් අපට guarantee කළ නොහැක."
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ account login details confidential ලෙස තබා ගැනීම සහ strong password එකක් භාවිතා කිරීම ඔබගේ වගකීමකි."
+          }
+        ]
+      },
+      "rights": {
+        "title": "10. ඔබගේ අයිතිවාසිකම්",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Applicable law අනුව, ඔබට පහත අයිතිවාසිකම් තිබිය හැකිය:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "අපි ඔබ ගැන තබාගෙන ඇති පුද්ගලික තොරතුරු access කිරීම",
+              "වැරදි හෝ අසම්පූර්ණ තොරතුරු correct කිරීම",
+              "ඔබගේ පුද්ගලික තොරතුරු delete කරන ලෙස request කිරීම",
+              "Certain processing activities වලට object කිරීම",
+              "Processing restrict කරන ලෙස request කිරීම",
+              "Consent මත පදනම් වූ processing සඳහා consent withdraw කිරීම",
+              "ඔබගේ data භාවිතා කරන ආකාරය පිළිබඳ තොරතුරු request කිරීම"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "මෙම rights exercise කිරීමට, \"Contact Us\" section එකේ දක්වා ඇති details භාවිතා කර අපව contact කරන්න."
+          },
+          {
+            "type": "p",
+            "text": "Certain requests වලට පිළිතුරු දීමට පෙර, ඔබගේ identity verify කිරීමට අපට අවශ්‍ය විය හැකිය."
+          }
+        ]
+      },
+      "accountDeletion": {
+        "title": "11. Account Deletion",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ඔබට අපව contact කර ඔබගේ account delete කරන ලෙස request කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ request ලැබුණු පසු, legal, billing, security, හෝ legitimate business purposes සඳහා තබා ගත යුතු තොරතුරු හැර, ඔබගේ account සහ personal information delete හෝ deactivate කිරීමට අපි reasonable steps ගනිමු."
+          },
+          {
+            "type": "p",
+            "text": "Backup systems හෝ records තුළ සමහර තොරතුරු සීමිත කාලයක් සඳහා ඉතිරි විය හැකි අතර, පසුව secure ලෙස remove කරනු ඇත."
+          }
+        ]
+      },
+      "childrenPrivacy": {
+        "title": "12. Children's Privacy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce business users සඳහා අදහස් කර ඇති අතර, children සඳහා direct කර ඇති service එකක් නොවේ."
+          },
+          {
+            "type": "p",
+            "text": "අපි දැනුවත්ව children ගෙන් personal information එකතු නොකරමු. Appropriate consent නොමැතිව child කෙනෙකුගෙන් personal information එකතු වී ඇති බව අපට දැනගතහොත්, එම තොරතුරු delete කිරීමට steps ගනු ඇත."
+          }
+        ]
+      },
+      "thirdPartyLinks": {
+        "title": "13. Third-Party Links",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපගේ website හෝ platform එක තුළ third-party websites හෝ services වෙත links තිබිය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Third-party websites වල privacy practices, content, හෝ security සම්බන්ධයෙන් අපි වගකිව යුතු නොවේ. ඔබ visit කරන ඕනෑම third-party website එකක privacy policy කියවා බලන ලෙස අපි users වෙත ඉල්ලා සිටිමු."
+          }
+        ]
+      },
+      "changes": {
+        "title": "14. මෙම Privacy Policy වෙනස් කිරීම",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපි මෙම Privacy Policy කාලයෙන් කාලයට update කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "වෙනස්කම් සිදු කළ විට, මෙම page එකේ ඉහළින් ඇති \"අවසන් වරට යාවත්කාලීන කළ දිනය\" update කරනු ඇත. වෙනස්කම් මෙම page එකේ publish කරනු ලබන අතර, එම වෙනස්කම් publish වූ පසු website හෝ platform එක දිගටම භාවිතා කිරීමෙන්, ඔබ updated Privacy Policy එක පිළිගන්නා බව සැලකේ."
+          }
+        ]
+      },
+      "contact": {
+        "title": "15. Contact Us",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "මෙම Privacy Policy පිළිබඳව, අපගේ data practices පිළිබඳව, හෝ ඔබගේ privacy rights exercise කිරීම පිළිබඳව ඔබට ප්‍රශ්න තිබේ නම්, පහත email address එකෙන් අපව contact කළ හැකිය:"
+          },
+          {
+            "type": "email",
+            "label": "Email:",
+            "address": "support@neuronest.dev"
+          },
+          {
+            "type": "p",
+            "text": "ඔබට අපගේ website එකේ ඇති consultation form එක හරහාද අපව contact කළ හැකිය."
+          }
+        ]
+      }
+    }
+  },
+"termsPage": {
+    "metaTitle": "සේවා කොන්දේසි — neuronest eCommerce",
+    "metaDescription": "neuronest eCommerce website, platform සහ services භාවිතා කිරීමේ terms සහ conditions review කරන්න.",
+    "title": "සේවා කොන්දේසි",
+    "lastUpdated": "අවසන් වරට යාවත්කාලීන කළ දිනය: 2026 ජූනි 23",
+    "sections": {
+      "introduction": {
+        "title": "1. හැඳින්වීම",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce වෙත සාදරයෙන් පිළිගනිමු."
+          },
+          {
+            "type": "p",
+            "text": "මෙම සේවා කොන්දේසි (\"කොන්දේසි\") මඟින් neuronest eCommerce website එක, platform එක, services, සහ ඒ සම්බන්ධ features භාවිතා කිරීම සඳහා අදාළ නියමයන් පැහැදිලි කරයි."
+          },
+          {
+            "type": "p",
+            "text": "මෙම සේවා neuronest eCommerce (\"අපි\", \"අපගේ\", හෝ \"අප\") විසින් ලබා දෙනු ලැබේ."
+          },
+          {
+            "type": "p",
+            "text": "neuronest eCommerce වෙත පිවිසීමෙන්, account එකක් create කිරීමෙන්, plan එකකට subscribe කිරීමෙන්, හෝ අපගේ services භාවිතා කිරීමෙන්, ඔබ මෙම කොන්දේසි පිළිපැදීමට එකඟ වන බව සැලකේ."
+          },
+          {
+            "type": "p",
+            "text": "ඔබ මෙම කොන්දේසි සමඟ එකඟ නොවන්නේ නම්, අපගේ website එක හෝ platform එක භාවිතා නොකළ යුතුය."
+          }
+        ]
+      },
+      "services": {
+        "title": "2. අපගේ සේවා",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce ව්‍යාපාරවලට online store එකක් create කිරීම, manage කිරීම, සහ operate කිරීම සඳහා අවශ්‍ය tools සහ services ලබා දෙයි."
+          },
+          {
+            "type": "p",
+            "text": "අපගේ services වලට පහත features ඇතුළත් විය හැකිය:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Online store creation",
+              "Product management",
+              "Order management",
+              "Customer management",
+              "Business dashboard",
+              "Subscription-based access",
+              "Consultation සහ support services",
+              "වෙනත් eCommerce tools සහ related features"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "අපි කාලයෙන් කාලයට අපගේ services වැඩිදියුණු කිරීම සඳහා features update, improve, modify, හෝ remove කළ හැකිය."
+          }
+        ]
+      },
+      "userAccounts": {
+        "title": "3. User Accounts",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce හි සමහර features භාවිතා කිරීමට ඔබට account එකක් create කිරීමට අවශ්‍ය විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Account එක create කිරීමේදී නිවැරදි, සම්පූර්ණ, සහ යාවත්කාලීන තොරතුරු ලබාදීමට ඔබ එකඟ වේ."
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ username, email, password ඇතුළු login details රහසිගතව තබා ගැනීම ඔබගේ වගකීමකි."
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ account එක යටතේ සිදුවන සියලුම activities සඳහා ඔබ වගකිව යුතුය."
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ account එක අනවසරයෙන් access කර ඇති බව ඔබට සැකයක් ඇති නම්, වහාම අපව contact කළ යුතුය."
+          }
+        ]
+      },
+      "eligibility": {
+        "title": "4. සුදුසුකම්",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce භාවිතා කිරීමෙන්, මෙම කොන්දේසි වලට නීතිමය වශයෙන් එකඟ වීමට ඔබට හැකියාව ඇති බව ඔබ තහවුරු කරයි."
+          },
+          {
+            "type": "p",
+            "text": "ඔබ මෙම services ව්‍යාපාරයක්, company එකක්, හෝ organization එකක් වෙනුවෙන් භාවිතා කරන්නේ නම්, එම ව්‍යාපාරය හෝ organization එක වෙනුවෙන් මෙම කොන්දේසි පිළිගැනීමට ඔබට බලය ඇති බව ඔබ තහවුරු කරයි."
+          }
+        ]
+      },
+      "subscriptions": {
+        "title": "5. Subscriptions සහ Payments",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce හි සමහර features paid subscription එකක් අවශ්‍ය විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Paid plan එකකට subscribe කිරීමෙන්, තෝරාගත් plan එකට අදාළ fees ගෙවීමට ඔබ එකඟ වේ."
+          },
+          {
+            "type": "p",
+            "text": "Subscription fees, billing cycles, available features, සහ plan limits අපගේ website එකේ පෙන්විය හැකි අතර, purchase කිරීමට පෙර ඔබට දැනුම් දිය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Payments securely process කිරීම සඳහා අපි third-party payment processors භාවිතා කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "නිවැරදි billing information ලබාදීම සහ payments නියමිත වේලාවට complete කිරීම ඔබගේ වගකීමකි."
+          },
+          {
+            "type": "p",
+            "text": "Payment එකක් fail වුවහොත්, paid features සඳහා ඔබගේ access suspend, limit, හෝ cancel කළ හැකිය."
+          }
+        ]
+      },
+      "subscriptionChanges": {
+        "title": "6. Subscription Changes සහ Cancellation",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Platform එකේ ලබාදී ඇති options අනුව හෝ අපව contact කිරීමෙන්, ඔබට subscription එක upgrade, downgrade, හෝ cancel කිරීමට request කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "ඔබ subscription එක cancel කළහොත්, වෙනත් ආකාරයකට සඳහන් කර නොමැති නම්, current billing period එක අවසන් වන තුරු paid features සඳහා access පවතිනු ඇත."
+          },
+          {
+            "type": "p",
+            "text": "Cancellation පසු, සමහර features, data, හෝ services ලබාගත නොහැකි විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Subscription plans, pricing, හෝ features වෙනස් කිරීමේ අයිතිය අප සතුව ඇත. Pricing changes active subscription එකකට බලපාන්නේ නම්, එම වෙනස්කම් ක්‍රියාත්මක වීමට පෙර reasonable steps මඟින් ඔබට දැනුම් දීමට අපි උත්සාහ කරමු."
+          }
+        ]
+      },
+      "refunds": {
+        "title": "7. Refunds",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Subscriptions, services, හෝ consultations සඳහා කරන ලද payments, වෙනත් ආකාරයකට සඳහන් කර නොමැති නම් හෝ applicable law මඟින් අවශ්‍ය නොවන්නේ නම්, non-refundable විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Refund requests case-by-case basis එකක් මත review කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Services දැනටමත් provide කර ඇති විට, platform access භාවිතා කර ඇති විට, හෝ request එක අපගේ refund conditions වලට නොගැළපෙන විට, refund එකක් refuse කිරීමේ අයිතිය අප සතුව ඇත."
+          }
+        ]
+      },
+      "userContent": {
+        "title": "8. User Content",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce හරහා ඔබට product details, images, descriptions, business information, customer information, සහ වෙනත් store-related content upload, submit, හෝ manage කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "ඔබ platform එකට submit කරන content හි ownership එක ඔබ සතුව පවතී."
+          },
+          {
+            "type": "p",
+            "text": "අපගේ platform එක භාවිතා කිරීමෙන්, අපගේ services provide සහ operate කිරීමට අවශ්‍ය තරමට පමණක්, ඔබගේ content store, process, display, සහ use කිරීමට සීමිත අයිතියක් ඔබ අපට ලබාදෙයි."
+          },
+          {
+            "type": "p",
+            "text": "ඔබගේ content නිවැරදි, නීත්‍යානුකූල, සහ වෙනත් පාර්ශවයන්ගේ rights violate නොකරන බව සහතික කිරීම ඔබගේ වගකීමකි."
+          }
+        ]
+      },
+      "prohibitedActivities": {
+        "title": "9. තහනම් ක්‍රියාකාරකම්",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce නීති විරෝධී, හානිකර, හෝ අපයෝජන අරමුණු සඳහා භාවිතා නොකිරීමට ඔබ එකඟ වේ."
+          },
+          {
+            "type": "p",
+            "text": "ඔබ පහත දේවල් නොකළ යුතුය:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Applicable laws හෝ regulations උල්ලංඝනය කිරීම",
+              "වැරදි, misleading, illegal, harmful, හෝ offensive content upload කිරීම",
+              "Prohibited, illegal, counterfeit, හෝ restricted products විකිණීම",
+              "අපගේ platform එක hack, disrupt, overload, හෝ damage කිරීමට උත්සාහ කිරීම",
+              "වෙනත් user කෙනෙකුගේ account එක permission නොමැතිව access කිරීම",
+              "අපගේ permission නොමැතිව services copy, resell, හෝ misuse කිරීම",
+              "Spam, phishing messages, හෝ harmful content යැවීමට platform එක භාවිතා කිරීම",
+              "Malware, viruses, හෝ malicious code upload කිරීම",
+              "Platform එකේ security හෝ performance වලට බාධා කිරීම"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "මෙම කොන්දේසි උල්ලංඝනය කරන accounts suspend හෝ terminate කිරීමේ අයිතිය අප සතුව ඇත."
+          }
+        ]
+      },
+      "storeOwnerResponsibilities": {
+        "title": "10. Store Owner Responsibilities",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ඔබ neuronest eCommerce භාවිතා කර online store එකක් operate කරන්නේ නම්, ඔබගේම business activities සඳහා ඔබ වගකිව යුතුය."
+          },
+          {
+            "type": "p",
+            "text": "ඒවාට පහත දේවල් ඇතුළත් වේ:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Product accuracy",
+              "Product pricing",
+              "Order fulfillment",
+              "Customer communication",
+              "Delivery සහ shipping arrangements",
+              "ඔබගේ customers සඳහා refunds සහ returns",
+              "Taxes, invoices, සහ legal compliance",
+              "අවශ්‍ය අවස්ථාවල business licenses හෝ approvals",
+              "Consumer protection සහ eCommerce laws වලට අනුකූල වීම"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "neuronest eCommerce platform tools ලබා දෙයි. නමුත්, වෙනත් ආකාරයකට විශේෂයෙන් එකඟ වී නොමැති නම්, store owners සහ ඔවුන්ගේ customers අතර ඇති disputes සඳහා අපි වගකිව යුතු නොවේ."
+          }
+        ]
+      },
+      "platformAvailability": {
+        "title": "11. Platform Availability",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce available සහ reliable ලෙස පවත්වා ගැනීමට අපි උත්සාහ කරමු."
+          },
+          {
+            "type": "p",
+            "text": "කෙසේ වෙතත්, platform එක සෑම විටම available, uninterrupted, error-free, හෝ secure බව අපි guarantee නොකරමු."
+          },
+          {
+            "type": "p",
+            "text": "Maintenance, updates, technical issues, third-party service failures, internet problems, හෝ අපගේ පාලනයෙන් බැහැර events නිසා access බලපානු හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Platform එක maintain හෝ improve කිරීම සඳහා access temporary ලෙස suspend හෝ restrict කළ හැකිය."
+          }
+        ]
+      },
+      "thirdPartyServices": {
+        "title": "12. Third-Party Services",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce payment processors, hosting providers, analytics tools, email services, delivery-related tools වැනි third-party services සමඟ integrate විය හැකිය හෝ ඒවා මත depend විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Third-party services භාවිතා කිරීම ඔවුන්ගේම terms සහ privacy policies වලට යටත් විය හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Third-party services වල actions, performance, availability, හෝ policies සඳහා අපි වගකිව යුතු නොවේ."
+          }
+        ]
+      },
+      "intellectualProperty": {
+        "title": "13. Intellectual Property",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce website එක, platform design, software, branding, logos, text, graphics, සහ related materials ඇතුළු සියලුම rights, title, සහ interest අපට හෝ අපගේ licensors ලාට අයත් වේ."
+          },
+          {
+            "type": "p",
+            "text": "අපගේ written permission නොමැතිව platform එකේ කිසිදු කොටසක් copy, modify, distribute, sell, lease, reverse engineer, හෝ exploit කළ නොහැක."
+          },
+          {
+            "type": "p",
+            "text": "neuronest eCommerce භාවිතා කිරීමෙන් අපගේ intellectual property ownership එක ඔබට ලබා නොදේ."
+          }
+        ]
+      },
+      "privacy": {
+        "title": "14. Privacy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ඔබගේ neuronest eCommerce භාවිතය අපගේ Privacy Policy එකටද යටත් වේ."
+          },
+          {
+            "type": "p",
+            "text": "අපි ඔබගේ තොරතුරු collect, use, store, සහ protect කරන ආකාරය තේරුම් ගැනීමට කරුණාකර අපගේ Privacy Policy එක කියවන්න."
+          }
+        ]
+      },
+      "accountTermination": {
+        "title": "15. Account Suspension හෝ Termination",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපි ඔබගේ account එක suspend, restrict, හෝ terminate කළ හැකිය, පහත අවස්ථාවලදී:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "ඔබ මෙම කොන්දේසි උල්ලංඝනය කළහොත්",
+              "Applicable fees ගෙවීමට අසමත් වුවහොත්",
+              "Platform එක misuse කළහොත්",
+              "ඔබගේ activity එක legal, security, හෝ operational risk එකක් ඇති කළහොත්",
+              "නීතියෙන් එසේ කිරීමට අවශ්‍ය වුවහොත්",
+              "අපි service එක හෝ එහි කොටසක් discontinue කළහොත්"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ඔබට ඕනෑම වේලාවක අපගේ services භාවිතා කිරීම නතර කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "Termination පසු, platform access remove විය හැකි අතර, සමහර data අපගේ Privacy Policy සහ legal requirements අනුව delete හෝ retain කළ හැකිය."
+          }
+        ]
+      },
+      "disclaimers": {
+        "title": "16. Disclaimers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "neuronest eCommerce \"as is\" සහ \"as available\" basis එක මත provide කරනු ලැබේ."
+          },
+          {
+            "type": "p",
+            "text": "Platform එක ඔබගේ සෑම business need එකක්ම satisfy කරයි, sales generate කරයි, revenue වැඩි කරයි, හෝ errors නොමැතිව operate කරයි යනුවෙන් අපි guarantee නොකරමු."
+          },
+          {
+            "type": "p",
+            "text": "අපගේ services ඔබගේ business එකට සුදුසුද යන්න තීරණය කිරීම ඔබගේ වගකීමකි."
+          },
+          {
+            "type": "p",
+            "text": "නීතියෙන් අවසර ඇති උපරිම සීමාව දක්වා, merchantability, fitness for a particular purpose, සහ non-infringement ඇතුළු express හෝ implied warranties සියල්ල අපි disclaim කරමු."
+          }
+        ]
+      },
+      "limitationOfLiability": {
+        "title": "17. Limitation of Liability",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "නීතියෙන් අවසර ඇති උපරිම සීමාව දක්වා, neuronest eCommerce indirect, incidental, special, consequential, හෝ punitive damages සඳහා වගකිව යුතු නොවේ."
+          },
+          {
+            "type": "p",
+            "text": "මෙයට profits, revenue, data, customers, business opportunities, goodwill, හෝ platform access අහිමි වීම ඇතුළත් වේ."
+          },
+          {
+            "type": "p",
+            "text": "Services සම්බන්ධ ඕනෑම claim එකක් සඳහා අපගේ total liability, applicable law මඟින් වෙනත් ආකාරයකට අවශ්‍ය නොවන්නේ නම්, එම claim එකට හේතු වූ කාලය තුළ ඔබ අපට ගෙවූ මුදලට වඩා වැඩි නොවනු ඇත."
+          }
+        ]
+      },
+      "indemnification": {
+        "title": "18. Indemnification",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "පහත කරුණු නිසා ඇතිවන claims, damages, losses, liabilities, costs, හෝ expenses වලින් neuronest eCommerce ආරක්ෂා කිරීමට සහ වගකීමෙන් නිදහස් කිරීමට ඔබ එකඟ වේ:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "ඔබ platform එක භාවිතා කිරීම",
+              "ඔබ මෙම කොන්දේසි උල්ලංඝනය කිරීම",
+              "ඔබගේ business activities",
+              "ඔබගේ products හෝ services",
+              "ඔබගේ user content",
+              "ඔබ යම් law එකක් හෝ third-party rights උල්ලංඝනය කිරීම"
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "title": "19. මෙම Terms වෙනස් කිරීම",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "අපි මෙම Terms කාලයෙන් කාලයට update කළ හැකිය."
+          },
+          {
+            "type": "p",
+            "text": "වෙනස්කම් සිදු කළ විට, මෙම page එකේ ඉහළින් ඇති \"අවසන් වරට යාවත්කාලීන කළ දිනය\" update කරනු ඇත."
+          },
+          {
+            "type": "p",
+            "text": "වෙනස්කම් publish කළ පසු neuronest eCommerce දිගටම භාවිතා කිරීමෙන්, ඔබ updated Terms පිළිගන්නා බව සැලකේ."
+          },
+          {
+            "type": "p",
+            "text": "ඔබ updated Terms සමඟ එකඟ නොවන්නේ නම්, platform එක භාවිතා කිරීම නතර කළ යුතුය."
+          }
+        ]
+      },
+      "governingLaw": {
+        "title": "20. Governing Law",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "මෙම Terms ශ්‍රී ලංකාවේ අදාළ නීති අනුව governed සහ interpreted වේ, applicable law වෙනත් ආකාරයකට අවශ්‍ය නොකරන්නේ නම්."
+          },
+          {
+            "type": "p",
+            "text": "මෙම Terms හෝ neuronest eCommerce භාවිතය සම්බන්ධ ඕනෑම dispute එකක් applicable law යටතේ අදාළ courts හෝ dispute resolution processes හරහා handle කරනු ඇත."
+          }
+        ]
+      },
+      "contact": {
+        "title": "21. Contact Us",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "මෙම Terms of Service පිළිබඳව ඔබට ප්‍රශ්න තිබේ නම්, පහත email address එක හරහා අපව contact කළ හැකිය:"
+          },
+          {
+            "type": "email",
+            "label": "Email:",
+            "address": "support@neuronest.dev"
+          },
+          {
+            "type": "p",
+            "text": "ඔබට අපගේ website එකේ ඇති consultation form එක හරහාද අපව contact කළ හැකිය."
+          }
+        ]
+      }
+    }
   }
 }

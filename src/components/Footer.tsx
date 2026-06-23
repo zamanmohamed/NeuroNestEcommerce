@@ -1,5 +1,8 @@
+"use client";
+
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export default function Footer() {
   const t = useTranslations("footer");
@@ -27,19 +30,19 @@ export default function Footer() {
             </h4>
             <ul className="mt-4 space-y-2.5 text-sm text-slate-600">
               <li>
-                <a href="#features" className="hover:text-brand-ink">
+                <Link href="/#features" className="hover:text-brand-ink">
                   {nav("features")}
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#pricing" className="hover:text-brand-ink">
+                <Link href="/#pricing" className="hover:text-brand-ink">
                   {nav("pricing")}
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#how-it-works" className="hover:text-brand-ink">
+                <Link href="/#how-it-works" className="hover:text-brand-ink">
                   {nav("howItWorks")}
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -50,9 +53,9 @@ export default function Footer() {
             </h4>
             <ul className="mt-4 space-y-2.5 text-sm text-slate-600">
               <li>
-                <a href="#" className="hover:text-brand-ink">
+                <Link href="/about" className="hover:text-brand-ink">
                   {t("about")}
-                </a>
+                </Link>
               </li>
               <li>
                 <a href="#" className="hover:text-brand-ink">
@@ -73,14 +76,14 @@ export default function Footer() {
             </h4>
             <ul className="mt-4 space-y-2.5 text-sm text-slate-600">
               <li>
-                <a href="#" className="hover:text-brand-ink">
+                <Link href="/privacy" className="hover:text-brand-ink">
                   {t("privacy")}
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="hover:text-brand-ink">
+                <Link href="/terms" className="hover:text-brand-ink">
                   {t("terms")}
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
