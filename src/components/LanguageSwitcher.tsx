@@ -12,7 +12,13 @@ const localeLabels: Record<Locale, string> = {
   si: "සිංහල",
 };
 
-export default function LanguageSwitcher() {
+interface LanguageSwitcherProps {
+  align?: "start" | "end";
+}
+
+export default function LanguageSwitcher({
+  align = "end",
+}: LanguageSwitcherProps) {
   const t = useTranslations("languageSwitcher");
   const locale = useLocale() as Locale;
   const router = useRouter();
@@ -83,7 +89,8 @@ export default function LanguageSwitcher() {
         role="listbox"
         aria-label={t("label")}
         className={cn(
-          "absolute right-0 top-[calc(100%+0.5rem)] z-50 min-w-42 overflow-hidden rounded-xl",
+          "absolute top-[calc(100%+0.5rem)] z-50 w-44 max-w-[calc(100vw-2rem)] overflow-hidden rounded-xl",
+          align === "start" ? "left-0" : "right-0",
           "border border-slate-200/80 bg-white p-1.5 shadow-xl shadow-slate-900/10",
           "origin-top transition-all duration-200 ease-out",
           open

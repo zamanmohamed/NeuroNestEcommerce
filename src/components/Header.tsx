@@ -21,7 +21,7 @@ export default function Header() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="fixed inset-x-0 top-0 z-50 border-b border-slate-200/80 bg-white/80 backdrop-blur-lg">
+    <header className="fixed inset-x-0 top-0 z-50 overflow-visible border-b border-slate-200/80 bg-white/80 backdrop-blur-lg">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center">
           <Image
@@ -47,7 +47,7 @@ export default function Header() {
         </nav>
 
         <div className="hidden items-center gap-3 md:flex">
-          <LanguageSwitcher />
+          <LanguageSwitcher align="end" />
           <Link
             href="/#pricing"
             className="rounded-full bg-brand-ink px-5 py-2 text-sm font-semibold text-white shadow-md transition-all hover:scale-105 hover:bg-brand-blue"
@@ -68,11 +68,11 @@ export default function Header() {
 
       <div
         className={cn(
-          "border-t border-slate-200 bg-white md:hidden",
+          "overflow-visible border-t border-slate-200 bg-white md:hidden",
           open ? "block" : "hidden"
         )}
       >
-        <nav className="flex flex-col gap-1 px-4 py-4">
+        <nav className="flex flex-col gap-1 overflow-visible px-4 py-4">
           {navLinks.map((link) => (
             <Link
               key={link.key}
@@ -83,8 +83,8 @@ export default function Header() {
               {t(link.key)}
             </Link>
           ))}
-          <div className="mt-3 flex items-center justify-between border-t border-slate-100 pt-3">
-            <LanguageSwitcher />
+          <div className="mt-3 flex items-center justify-between gap-3 overflow-visible border-t border-slate-100 pt-3">
+            <LanguageSwitcher align="start" />
             <Link
               href="/#pricing"
               className="rounded-full bg-brand-ink px-5 py-2 text-sm font-semibold text-white"
