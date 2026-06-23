@@ -1,13 +1,11 @@
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_MARKETING_API_URL ?? "http://localhost:5001/api";
+  process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:5000/api";
 
 export type ConsultationPayload = {
   fullName: string;
   email: string;
   phone: string;
   businessName?: string;
-  preferredDate: string;
-  preferredTime?: string;
   message?: string;
   locale?: "en" | "si";
 };
