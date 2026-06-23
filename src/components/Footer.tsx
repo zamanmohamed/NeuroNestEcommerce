@@ -11,19 +11,13 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid gap-12 md:grid-cols-4">
           <div className="md:col-span-1">
-            <div className="flex items-center gap-2.5">
-              <Image
-                src="/logo.png"
-                alt="neuronest eCommerce"
-                width={36}
-                height={36}
-                className="rounded-full"
-              />
-              <span className="text-sm font-semibold">
-                <span className="text-brand-navy">neuro</span>
-                <span className="gradient-text">nest</span>
-              </span>
-            </div>
+            <Image
+              src="/logo.png"
+              alt="NeuroNest eCommerce"
+              width={160}
+              height={44}
+              className="h-9 w-auto"
+            />
             <p className="mt-4 text-sm text-slate-500">{t("tagline")}</p>
           </div>
 
@@ -33,17 +27,17 @@ export default function Footer() {
             </h4>
             <ul className="mt-4 space-y-2.5 text-sm text-slate-600">
               <li>
-                <a href="#features" className="hover:text-brand-purple">
+                <a href="#features" className="hover:text-brand-ink">
                   {nav("features")}
                 </a>
               </li>
               <li>
-                <a href="#pricing" className="hover:text-brand-purple">
+                <a href="#pricing" className="hover:text-brand-ink">
                   {nav("pricing")}
                 </a>
               </li>
               <li>
-                <a href="#how-it-works" className="hover:text-brand-purple">
+                <a href="#how-it-works" className="hover:text-brand-ink">
                   {nav("howItWorks")}
                 </a>
               </li>
@@ -56,17 +50,17 @@ export default function Footer() {
             </h4>
             <ul className="mt-4 space-y-2.5 text-sm text-slate-600">
               <li>
-                <a href="#" className="hover:text-brand-purple">
+                <a href="#" className="hover:text-brand-ink">
                   {t("about")}
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-brand-purple">
+                <a href="#" className="hover:text-brand-ink">
                   {t("blog")}
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-brand-purple">
+                <a href="#" className="hover:text-brand-ink">
                   {t("careers")}
                 </a>
               </li>
@@ -79,12 +73,12 @@ export default function Footer() {
             </h4>
             <ul className="mt-4 space-y-2.5 text-sm text-slate-600">
               <li>
-                <a href="#" className="hover:text-brand-purple">
+                <a href="#" className="hover:text-brand-ink">
                   {t("privacy")}
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-brand-purple">
+                <a href="#" className="hover:text-brand-ink">
                   {t("terms")}
                 </a>
               </li>

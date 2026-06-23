@@ -17,13 +17,13 @@ export default function HowItWorks() {
 
         <div className="relative mt-16 grid gap-8 md:grid-cols-3">
           <div
-            className="absolute top-12 hidden h-0.5 w-full bg-gradient-to-r from-brand-blue via-brand-purple to-brand-orange md:block"
+            className="absolute top-12 hidden h-0.5 w-full bg-gradient-to-r from-transparent via-brand-ink/40 to-transparent md:block"
             aria-hidden
           />
 
           {stepKeys.map((key, index) => (
             <div key={key} className="relative text-center">
-              <div className="mx-auto mb-6 flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-br from-brand-blue via-brand-purple to-brand-pink text-xl font-bold text-white shadow-lg">
+              <div className="mx-auto mb-6 flex h-14 w-14 items-center justify-center rounded-full bg-brand-ink text-xl font-bold text-white shadow-lg ring-4 ring-white">
                 {index + 1}
               </div>
               <h3 className="text-lg font-semibold text-brand-navy">

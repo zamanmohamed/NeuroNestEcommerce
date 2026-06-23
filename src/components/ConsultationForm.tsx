@@ -20,7 +20,7 @@ type FormValues = {
 };
 
 const inputClass =
-  "w-full rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm text-slate-800 outline-none transition-colors focus:border-brand-purple/50 focus:ring-2 focus:ring-brand-purple/10";
+  "w-full rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm text-slate-800 outline-none transition-colors focus:border-brand-ink focus:ring-2 focus:ring-brand-ink/10";
 
 const labelClass = "mb-1.5 block text-sm font-medium text-slate-700";
 
@@ -76,8 +76,8 @@ export default function ConsultationForm() {
 
   if (submitted) {
     return (
-      <div className="rounded-2xl border border-brand-purple/20 bg-brand-purple/5 p-8 text-center">
-        <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-br from-brand-blue via-brand-purple to-brand-pink text-white">
+      <div className="rounded-2xl border border-brand-ink/15 bg-brand-ink/5 p-8 text-center">
+        <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-brand-ink text-white">
           <Calendar className="h-6 w-6" />
         </div>
         <h3 className="text-xl font-semibold text-brand-navy">
@@ -87,7 +87,7 @@ export default function ConsultationForm() {
         <button
           type="button"
           onClick={() => setSubmitted(false)}
-          className="mt-6 text-sm font-medium text-brand-purple hover:underline"
+          className="mt-6 text-sm font-medium text-brand-ink hover:underline"
         >
           {t("bookAnother")}
         </button>
@@ -268,7 +268,7 @@ export default function ConsultationForm() {
           <button
             type="submit"
             disabled={isSubmitting}
-            className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-brand-blue via-brand-purple to-brand-pink px-8 py-3.5 text-sm font-semibold text-white shadow-md transition-transform hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-70 sm:w-auto"
+            className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-brand-ink px-8 py-3.5 text-sm font-semibold text-white shadow-md transition-all hover:scale-[1.02] hover:bg-brand-blue disabled:cursor-not-allowed disabled:opacity-70 sm:w-auto"
           >
             {isSubmitting ? (
               <>

@@ -28,12 +28,12 @@ export default function Pricing() {
                 className={cn(
                   "relative rounded-2xl border bg-white p-8 transition-all duration-300",
                   isPopular
-                    ? "border-brand-purple shadow-xl shadow-brand-purple/10 scale-[1.02]"
-                    : "border-slate-200 hover:border-brand-purple/30 hover:shadow-lg"
+                    ? "border-brand-ink shadow-xl shadow-brand-ink/10 scale-[1.02]"
+                    : "border-slate-200 hover:border-brand-ink/30 hover:shadow-lg"
                 )}
               >
                 {isPopular && (
-                  <span className="absolute -top-3 left-1/2 -translate-x-1/2 rounded-full bg-gradient-to-r from-brand-blue via-brand-purple to-brand-pink px-4 py-1 text-xs font-semibold text-white">
+                  <span className="absolute -top-3 left-1/2 -translate-x-1/2 rounded-full bg-brand-ink px-4 py-1 text-xs font-semibold text-white">
                     {t("popular")}
                   </span>
                 )}
@@ -55,7 +55,7 @@ export default function Pricing() {
                 <ul className="mt-8 space-y-3">
                   {features.map((feature) => (
                     <li key={feature} className="flex items-start gap-3 text-sm text-slate-600">
-                      <Check className="mt-0.5 h-4 w-4 shrink-0 text-brand-purple" />
+                      <Check className="mt-0.5 h-4 w-4 shrink-0 text-brand-ink" />
                       {feature}
                     </li>
                   ))}
@@ -66,8 +66,8 @@ export default function Pricing() {
                   className={cn(
                     "mt-8 block w-full rounded-full py-3 text-center text-sm font-semibold transition-transform hover:scale-105",
                     isPopular
-                      ? "bg-gradient-to-r from-brand-blue via-brand-purple to-brand-pink text-white shadow-md"
-                      : "border border-slate-300 text-slate-700 hover:border-brand-purple hover:text-brand-purple"
+                      ? "bg-brand-ink text-white shadow-md hover:bg-brand-blue"
+                      : "border border-slate-300 text-slate-700 hover:border-brand-ink hover:text-brand-ink"
                   )}
                 >
                   {t("cta")}

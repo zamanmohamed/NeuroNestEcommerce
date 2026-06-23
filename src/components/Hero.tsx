@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
           <div className="text-center lg:text-start">
-            <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-brand-purple/20 bg-brand-purple/5 px-4 py-1.5 text-sm font-medium text-brand-purple">
+            <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-brand-ink/15 bg-brand-ink/5 px-4 py-1.5 text-sm font-medium text-brand-ink">
               <Sparkles className="h-4 w-4" />
               {t("badge")}
             </div>
@@ -30,39 +30,32 @@ export default function Hero() {
             <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row lg:justify-start justify-center">
               <a
                 href="#pricing"
-                className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-brand-blue via-brand-purple to-brand-pink px-8 py-3.5 text-base font-semibold text-white shadow-lg transition-transform hover:scale-105"
+                className="inline-flex items-center gap-2 rounded-full bg-brand-ink px-8 py-3.5 text-base font-semibold text-white shadow-lg transition-all hover:scale-105 hover:bg-brand-blue"
               >
                 {t("ctaPrimary")}
                 <ArrowRight className="h-4 w-4" />
               </a>
               <a
                 href="#features"
-                className="inline-flex items-center gap-2 rounded-full border border-slate-300 bg-white px-8 py-3.5 text-base font-semibold text-slate-700 transition-colors hover:border-brand-purple/40 hover:text-brand-purple"
+                className="inline-flex items-center gap-2 rounded-full border border-slate-300 bg-white px-8 py-3.5 text-base font-semibold text-slate-700 transition-colors hover:border-brand-ink hover:text-brand-ink"
               >
                 {t("ctaSecondary")}
               </a>
             </div>
-
-            <p className="mt-10 text-sm font-medium tracking-wide gradient-text">
-              {t("tagline")}
-            </p>
           </div>
 
           <div className="relative flex justify-center">
-            <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-brand-blue/20 via-brand-purple/20 to-brand-pink/20 blur-2xl" aria-hidden />
-            <div className="relative rounded-3xl border border-white/60 bg-white/80 p-6 shadow-2xl backdrop-blur-sm sm:p-10">
+            <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-brand-ink/10 via-slate-400/10 to-brand-ink/10 blur-2xl" aria-hidden />
+            <div className="relative rounded-3xl border border-slate-200 bg-white p-8 shadow-2xl sm:p-12">
               <Image
                 src="/logo.png"
-                alt="neuronest eCommerce logo"
-                width={400}
-                height={400}
-                className="mx-auto w-full max-w-sm"
+                alt="NeuroNest eCommerce logo"
+                width={500}
+                height={140}
+                className="mx-auto w-full max-w-md"
                 priority
               />
-              <p className="mt-6 text-center text-lg font-semibold tracking-widest text-brand-navy uppercase">
-                eCommerce
-              </p>
-              <p className="mt-2 text-center text-sm text-slate-500">
+              <p className="mt-8 text-center text-base font-semibold uppercase tracking-[0.2em] gradient-text sm:text-lg">
                 {t("tagline")}
               </p>
             </div>

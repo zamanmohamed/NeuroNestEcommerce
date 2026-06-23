@@ -26,8 +26,8 @@ export default function LanguageSwitcher() {
       <label className="sr-only" htmlFor="language-select">
         {t("label")}
       </label>
-      <div className="flex items-center gap-1.5 rounded-lg border border-slate-200 bg-white px-2.5 py-1.5 text-sm text-slate-700 shadow-sm transition-colors hover:border-brand-purple/40">
-        <Globe className="h-4 w-4 text-brand-purple" aria-hidden />
+      <div className="flex items-center gap-1.5 rounded-lg border border-slate-200 bg-white px-2.5 py-1.5 text-sm text-slate-700 shadow-sm transition-colors hover:border-brand-ink/40">
+        <Globe className="h-4 w-4 text-brand-ink" aria-hidden />
         <select
           id="language-select"
           value={locale}

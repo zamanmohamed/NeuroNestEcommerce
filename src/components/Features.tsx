@@ -34,10 +34,10 @@ export default function Features() {
           {featureKeys.map(({ key, icon: Icon }) => (
             <div
               key={key}
-              className="card-glow group rounded-2xl border border-slate-200 bg-white p-8 transition-all duration-300 hover:-translate-y-1 hover:border-brand-purple/30"
+              className="card-glow group rounded-2xl border border-slate-200 bg-white p-8 transition-all duration-300 hover:-translate-y-1 hover:border-brand-ink/30"
             >
-              <div className="mb-5 inline-flex rounded-xl bg-gradient-to-br from-brand-blue/10 via-brand-purple/10 to-brand-pink/10 p-3">
-                <Icon className="h-6 w-6 text-brand-purple" />
+              <div className="mb-5 inline-flex rounded-xl bg-brand-ink/5 p-3 transition-colors group-hover:bg-brand-ink group-hover:text-white">
+                <Icon className="h-6 w-6 text-brand-ink group-hover:text-white" />
               </div>
               <h3 className="text-lg font-semibold text-brand-navy">
                 {t(`items.${key}.title`)}
